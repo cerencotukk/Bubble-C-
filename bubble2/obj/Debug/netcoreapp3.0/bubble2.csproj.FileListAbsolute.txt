@@ -1,0 +1,11 @@
+C:\Users\CEREN_ÇOTUK\source\repos\bubble2\bubble2\bin\Debug\netcoreapp3.0\bubble2.exe
+C:\Users\CEREN_ÇOTUK\source\repos\bubble2\bubble2\bin\Debug\netcoreapp3.0\bubble2.deps.json
+C:\Users\CEREN_ÇOTUK\source\repos\bubble2\bubble2\bin\Debug\netcoreapp3.0\bubble2.runtimeconfig.json
+C:\Users\CEREN_ÇOTUK\source\repos\bubble2\bubble2\bin\Debug\netcoreapp3.0\bubble2.runtimeconfig.dev.json
+C:\Users\CEREN_ÇOTUK\source\repos\bubble2\bubble2\bin\Debug\netcoreapp3.0\bubble2.dll
+C:\Users\CEREN_ÇOTUK\source\repos\bubble2\bubble2\bin\Debug\netcoreapp3.0\bubble2.pdb
+C:\Users\CEREN_ÇOTUK\source\repos\bubble2\bubble2\obj\Debug\netcoreapp3.0\bubble2.AssemblyInfoInputs.cache
+C:\Users\CEREN_ÇOTUK\source\repos\bubble2\bubble2\obj\Debug\netcoreapp3.0\bubble2.AssemblyInfo.cs
+C:\Users\CEREN_ÇOTUK\source\repos\bubble2\bubble2\obj\Debug\netcoreapp3.0\bubble2.dll
+C:\Users\CEREN_ÇOTUK\source\repos\bubble2\bubble2\obj\Debug\netcoreapp3.0\bubble2.pdb
+C:\Users\CEREN_ÇOTUK\source\repos\bubble2\bubble2\obj\Debug\netcoreapp3.0\bubble2.csprojAssemblyReference.cache
